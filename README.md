@@ -1,4 +1,4 @@
-#+++++++++++++++++++ Control 2 ++++++++++++++++++++++++
+#+++++++++++++++ Control 2 ++++++++++++++++++++
 
 Estimado Profesor, envio descripcion de lo realizado en R, a continuacion podra encontrar lo indicado para cada ejercicio
 
